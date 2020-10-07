@@ -1,0 +1,268 @@
+
+/*Reset Css*/
+
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+
+/*All Styles*/
+
+body{
+	font-family: "Poppins", sans-serif;
+	background-color: #f5f7fa;
+	padding: 40px;
+	margin:0px;
+}
+
+.main-container{
+	background-color: #fff;
+	display: flex;
+}
+
+.sidebar{
+	background-color: #1e2939;
+	width: 370px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.avatar{
+	width: 370px;
+}
+
+.about-user{
+padding: 110px 90px;
+}
+
+/*Contacts Container Styles*/
+
+.contacts{
+	margin: 60px 40px 0px 40px;
+}
+
+.contacts-header{
+	color: #fff;
+	font-size: 22px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.contacts-letters{
+	color:#fff;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	width: 14px;
+	letter-spacing: .42px;
+}
+
+.contacts-link{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #5f6772;
+	text-decoration: none;
+}
+
+/*Tech Skills Container Styles*/
+
+.tech-skills{
+	margin: 60px 40px 0px 40px;
+}
+
+.tech-skills-header{
+	color: #fff;
+	font-size: 22px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.tech-skills-list-marker{
+	color: #ff6b08;
+	margin-left: 15px;
+}
+
+.tech-skills-list-item{
+	color: #b2b5bb;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+/*Soft Skills Container Styles*/
+
+.soft-skills{
+	margin: 60px 40px 0px 40px;
+}
+
+.soft-skills-header{
+	color: #fff;
+	font-size: 22px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.soft-skills-list-marker{
+	color: #ff6b08;
+	margin-left: 15px;
+}
+
+.soft-skills-list-item{
+	color: #b2b5bb;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+/*About Me Container Styles*/
+
+.about-me-header{
+	margin-bottom: 65px;
+}
+
+.about-me-professional-title{
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 25px;
+}
+
+.user-name{
+	font-size: 45px;
+	font-weight: 700;
+	line-height: 89px;
+	margin-bottom: 25px;
+}
+
+.description{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #595959;
+}
+
+/*Projects Container Styles*/
+
+.projects-container{
+	margin-bottom: 50px;
+}
+
+.projects-title{
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	color: #000000;
+	margin-bottom: 15px;
+}
+
+.projects-links{
+
+}
+
+.projects-item{
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	color: #000;
+	margin-left: 16px;
+}
+
+.projects-links-item{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #595959;
+	text-decoration: none;
+}
+
+.tech-name-main{
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.tech-name{
+	color: #595959;
+	font-weight: 400;
+}
+
+.dots{
+	color: #595959;
+}
+
+/*Work Experience Container Styles*/
+
+.work-exp-container{
+	margin-bottom: 55px;
+}
+
+.work-exp-title{
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 15px;
+}
+
+.work{
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 10px;
+}
+
+.job{
+	color: #ff6b08;
+	letter-spacing: 0.48px;
+}
+
+.work-date{
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0.36px;
+	color: #a8a8a8;
+}
+.hr{
+	color:#000;
+	font-weight: 700;
+}
+
+.work-list-item{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #595959;
+}
+
+.work-list{
+	margin-left: 17px;
+	margin-top: 10px;
+}
+
+.work-container{
+	margin-bottom: 25px;
+}
+
+/*Education Container Styles*/
+.education-title{
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 20px;
+}
+
+.education-place{
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	color: #ff6b08;
+	margin-bottom: 15px;	
+}
+
+.education-place-type{
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 10px;
+}
